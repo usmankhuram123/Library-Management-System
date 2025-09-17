@@ -30,6 +30,3 @@ A beginner-level Python project built from scratch using Anaconda and Jupyter No
 - Learned how to structure a real-world project
 
 ---
-
-
-1. Clone the repository:
